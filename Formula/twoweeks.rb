@@ -1,8 +1,8 @@
 class Twoweeks < Formula
   desc "Time the gap between your AI's confident estimate and your actual ship time"
   homepage "https://github.com/Meliwat/twoweeks"
-  url "https://github.com/Meliwat/twoweeks/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "d7e1049f2251ffff5b2081a9cc584aaa340c666ffa562269d7f18570b33e5c09"
+  url "https://github.com/Meliwat/twoweeks/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "6fd98ce5b60ea86109c06110e5a7ae7c733328cdf3e6e30ab91ade7af8caddec"
   license "MIT"
   head "https://github.com/Meliwat/twoweeks.git", branch: "main"
 
